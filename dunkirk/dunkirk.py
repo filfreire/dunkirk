@@ -8,8 +8,8 @@ Usage:
     dunkirk --version
 
 Options:
-    --num=<num>       The number of notes to be exported to Google
-                      Keep (default: all notes will be exported)
+    --num=<num>       The number of notes to be exported to text files
+                      (default: all notes will be exported)
 """
 
 import logging

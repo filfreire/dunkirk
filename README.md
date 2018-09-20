@@ -19,9 +19,12 @@ Usage:
     dunkirk --version
 
 Options:
-    --num=<num>       The number of notes to be exported to Google
-                      Keep (default: all notes will be exported)
+    --num=<num>       The number of notes to be exported to text files
+                      (default: all notes will be exported)
 ```
+
+Notes export will then be in a `temporary_export/` folder.
+
 
 ## Acknowledgements
 
@@ -29,13 +32,14 @@ This repo is my sloppy and python n00b adaptation of https://github.com/adamyi/n
 
 ## Contribute
 
-I have very few knowledge in python, so I thank any pull requests or issues.
-Submissions are welcome.
+I have few knowledge in python, so I welcome any pull requests or issues.
 
 ## Disclaimer
-This is not an official Google product. It is neither endorsed nor supported by either Google LLC or Apple Inc.
+
+This is not an official Apple product. It is not endorsed nor supported by Apple Inc.
 
 ## License
+
 Copyright 2018 Filipe Freire
 
 [MIT License](LICENSE)
