@@ -7,6 +7,8 @@ Export all your [Apple iCloud Notes](https://www.icloud.com/notes) on macOS to t
 > Disclaimer: this is a sloppy adaptation of https://github.com/adamyi/notes_to_keep
 
 ## Installation
+Recommended python version: `Python 2.7.15`
+
 ```
 python setup.py build && python setup.py install && pip install dunkirk
 ```
